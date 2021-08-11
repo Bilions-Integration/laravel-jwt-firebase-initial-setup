@@ -1,1 +1,1 @@
-## ThailandPass API with PHP (Laravel)
+## Initial Setup for Laravel with JWT and Firebase Auth
